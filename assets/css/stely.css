@@ -1,0 +1,45 @@
+.bg-navbar {
+    background: rgba(13, 13, 14, 0.753);
+  }
+  
+  .carousel-item img {
+    height: 700px;
+    object-fit: cover;
+  }
+  #sec-trabajos .card > img {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  /* Text shadow generator https://cssgenerator.org/text-shadow-css-generator.html */
+  .carousel-caption h5 {
+    font-family: "Rowdies", cursive;
+    text-shadow: -1px 2px 10px rgba(0, 0, 0, 0.52);
+  }
+  
+  .text-rowdies {
+    font-family: "Rowdies", cursive;
+  }
+  
+  p {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .custom-icon:hover {
+    color: rgb(40, 44, 44);
+  }
+  main{
+    background-color: black;
+  }
+  p{
+    color: #fff;
+  }
+  h2{
+    color: #fff;
+  }
+  h5{
+    color: #fff;
+  }
+  hr{
+    border-color: aqua;
+  }
